@@ -1,4 +1,6 @@
+# -*- coding: utf-8 -*-
 """
+Vornei
 PySimpleGUI: https://pypi.org/project/PySimpleGUI/
 
 """

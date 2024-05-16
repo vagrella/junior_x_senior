@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+"""
+Vornei
+"""
 # Junior:
 resultado = 'tem algo'
 if not resultado == None:

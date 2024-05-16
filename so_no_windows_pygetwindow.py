@@ -1,4 +1,6 @@
+# -*- coding: utf-8 -*-
 """
+Vornei
 PyGetWindow: https://pypi.org/project/PyGetWindow/
 File "/home/dev/python/junior_x_senior/.venv/lib/python3.11/site-packages/pygetwindow/__init__.py", line 347, in <module>
     raise NotImplementedError(

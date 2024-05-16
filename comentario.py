@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+"""
+Vornei
+"""
 # Junior:
 # Variáveis que guardam o salario de cada diretor e a soma de todos os salarios da diretoria
 sid = 0
