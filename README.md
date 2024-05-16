@@ -1,2 +1,3 @@
-# junior_x_senior
+# Júnior x Sênior (ÚÊ)
+
 Exemplos Python
